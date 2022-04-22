@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "953954735711",
+    "project_id": "eshop-d5272",
+    "storage_bucket": "eshop-d5272.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953954735711:android:d035426cb1d1b02ef7adea",
+        "android_client_info": {
+          "package_name": "com.thienngodong.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953954735711-ja3rcfrivjiddk4os60nfef1dsm6actg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANsCCWPFcaL77mRm6KVRaogFg8IVjNinE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953954735711-ja3rcfrivjiddk4os60nfef1dsm6actg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
